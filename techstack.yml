@@ -1,0 +1,18 @@
+repo_name: yuriportfolio/Camel-AutoGPT
+report_id: dde209bb6acb0cf797c8c4f0792aad38
+repo_type: Public
+timestamp: '2023-11-09T20:10:13+00:00'
+requested_by: Anil-matcha
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
